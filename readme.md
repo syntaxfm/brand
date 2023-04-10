@@ -11,7 +11,7 @@ If a vector version is need for something like conference conference banners or 
 
 ## Colours
 
-``css
+```css
 :root {
   --yellow: #FABF46;
   --black: #1d1d1d;
