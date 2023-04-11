@@ -1,7 +1,5 @@
 # Syntax Branding
 
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAKElEQVR42mP8td/tPwONAeOoJaOWjFoyasmoJaOWjFoyasmoJXSxBACVP0ro1OvTUgAAAABJRU5ErkJggg==">
-
 Logos, colours and all that surrounds the Syntax brand.
 
 → [View and download all assets and logos here](./gallery.html)
@@ -13,6 +11,10 @@ Whenever possible, including on websites - use `Syntax-Logo.png`. This logo is r
 If a vector version is need for something like conference conference banners or skateboards, you may use the simplified vector version.
 
 ## Colours
+
+<img src="http://via.placeholder.com/25/FABF46/FFFFFF?text=">
+<img src="http://via.placeholder.com/25/000000/FFFFFF?text=">
+<img src="http://via.placeholder.com/25/1d1d1d/FFFFFF?text=">
 
 ```css
 :root {
