@@ -10,11 +10,7 @@ Whenever possible, including on websites - use `Syntax-Logo.png`. This logo is r
 
 If a vector version is need for something like conference conference banners or skateboards, you may use the simplified vector version.
 
-## Colours
-
-<img src="http://via.placeholder.com/25/FABF46/FFFFFF?text=">
-<img src="http://via.placeholder.com/25/000000/FFFFFF?text=">
-<img src="http://via.placeholder.com/25/1d1d1d/FFFFFF?text=">
+## Colours <img src="http://via.placeholder.com/25/FABF46/FFFFFF?text="><img src="http://via.placeholder.com/25/000000/FFFFFF?text="><img src="http://via.placeholder.com/25/1d1d1d/FFFFFF?text=">
 
 ```css
 :root {
