@@ -1,5 +1,7 @@
 # Syntax Branding
 
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAKElEQVR42mP8td/tPwONAeOoJaOWjFoyasmoJaOWjFoyasmoJXSxBACVP0ro1OvTUgAAAABJRU5ErkJggg==">
+
 Logos, colours and all that surrounds the Syntax brand.
 
 → [View and download all assets and logos here](./gallery.html)
