@@ -2,6 +2,7 @@
 
 Logos, colours and all that surrounds the Syntax brand.
 
+→ [View and download all assets and logos here](./gallery.html)
 
 ## Logos
 
