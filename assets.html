@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Syntax Assets</title>
+  </head>
+  <body>
+    <div class="assets">
+      <div class="asset">
+        <h2>Syntax Logo.png</h2>
+        <a href="./Syntax Logo.png" download>
+          <img src="./Syntax Logo.png" alt="" />
+        </a>
+      </div>
+      <div class="asset">
+        <h2>Syntax Logo Wide - No Background.png</h2>
+        <a href="./Syntax Logo Wide - No Background.png" download>
+          <img src="./Syntax Logo Wide - No Background.png" alt="" />
+        </a>
+      </div>
+      <div class="asset">
+        <h2>Syntax Logo Stacked - No Background- small.png</h2>
+        <a href="./Syntax Logo Stacked - No Background- small.png" download>
+          <img src="./Syntax Logo Stacked - No Background- small.png" alt="" />
+        </a>
+      </div>
+      <div class="asset">
+        <h2>Syntax Logo Stacked - No Background.png</h2>
+        <a href="./Syntax Logo Stacked - No Background.png" download>
+          <img src="./Syntax Logo Stacked - No Background.png" alt="" />
+        </a>
+      </div>
+      <div class="asset">
+        <h2>Syntax Logo Stacked - Vector.svg</h2>
+        <a href="./Syntax Logo Stacked - Vector.svg" download>
+          <img src="./Syntax Logo Stacked - Vector.svg" alt="" />
+        </a>
+      </div>
+      <div class="asset">
+        <h2>Syntax Logo Wide - Vector.svg</h2>
+        <a href="./Syntax Logo Wide - Vector.svg" download>
+          <img src="./Syntax Logo Wide - Vector.svg" alt="" />
+        </a>
+      </div>
+      <div class="asset">
+        <h2>Syntax Wordmark Stacked - black.svg</h2>
+        <a href="./Syntax Wordmark Stacked - black.svg" download>
+          <img src="./Syntax Wordmark Stacked - black.svg" alt="" />
+        </a>
+      </div>
+      <div class="asset">
+        <h2>Syntax Wordmark Stacked - white.svg</h2>
+        <a href="./Syntax Wordmark Stacked - white.svg" download>
+          <img src="./Syntax Wordmark Stacked - white.svg" alt="" />
+        </a>
+      </div>
+      <div class="asset">
+        <h2>Syntax Wordmark Stacked - yellow.svg</h2>
+        <a href="./Syntax Wordmark Stacked - yellow.svg" download>
+          <img src="./Syntax Wordmark Stacked - yellow.svg" alt="" />
+        </a>
+      </div>
+      <div class="asset">
+        <h2>Syntax Podcast Artwork - Wide.png</h2>
+        <a href="./Syntax Podcast Artwork - Wide.png" download>
+          <img src="./Syntax Podcast Artwork - Wide.png" alt="" />
+        </a>
+      </div>
+      <div class="asset">
+        <h2>Syntax Podcast Artwork - Stacked.png</h2>
+        <a href="./Syntax Podcast Artwork - Stacked.png" download>
+          <img src="./Syntax Podcast Artwork - Stacked.png" alt="" />
+        </a>
+      </div>
+      <div class="asset">
+        <h2>Syntax Logosmall.png</h2>
+        <a href="./Syntax Logosmall.png" download>
+          <img src="./Syntax Logosmall.png" alt="" />
+        </a>
+      </div>
+      <div class="asset">
+        <h2>Dusty Black Paper.png</h2>
+        <a href="./Dusty Black Paper.png" download>
+          <img src="./Dusty Black Paper.png" alt="" />
+        </a>
+      </div>
+      <div class="asset">
+        <h2>black grunge.png</h2>
+        <a href="./black grunge.png" download>
+          <img src="./black grunge.png" alt="" />
+        </a>
+      </div>
+      <div class="asset">
+        <h2>white grunge.png</h2>
+        <a href="./white grunge.png" download>
+          <img src="./white grunge.png" alt="" />
+        </a>
+      </div>
+    </div>
+    <style>
+      :root {
+        --yellow: #fabf46;
+        --black: #000;
+        --blackish: #1d1d1d;
+      }
+      body {
+        background: var(--black);
+        color: var(--yellow);
+        font-family: sans-serif;
+      }
+      .assets {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 300px));
+        grid-gap: 1rem;
+        padding: 1rem;
+        justify-content: space-around;
+      }
+      .asset {
+        border: 1px solid var(--yellow);
+      }
+      .asset img {
+        width: 100%;
+        height: auto;
+      }
+
+      .asset h2 {
+        text-align: center;
+        font-size: 12px;
+        background: var(--yellow);
+        color: black;
+        margin: 0;
+        padding: 10px 2px;
+      }
+
+      .asset:has(img[src*="black"]) {
+        background: white;
+      }
+    </style>
+  </body>
+</html>
