@@ -4,6 +4,10 @@ Logos, colours and all that surrounds the Syntax brand.
 
 → [View and download all assets and logos here](https://syntaxfm.github.io/brand/gallery.html)
 
+## ×××
+
+Always ×, never X, never x.
+
 ## Logos
 
 Whenever possible, including on websites - use `Syntax-Logo.png`. This logo is raster based and contains the texture / grunge needed.
