@@ -21,11 +21,10 @@ In this episode of Syntax, Wes and Scott talk
 - Scott: [Sentry](https://sentry.io)
 - Wes: [Wes Bos Courses](https://wesbos.com/courses)
 
-### Tweet us your tasty treats
+### Hit us up on Socials!
 
-- [Syntax Instagram](https://www.instagram.com/syntaxfm/)
-- [Scott's Instagram](https://www.instagram.com/stolinski/)
-- [Wes' Instagram](https://www.instagram.com/wesbos/)
-- [Wes' Twitter](https://twitter.com/wesbos)
-- [Scott's Twitter](https://twitter.com/stolinski)
-- Make sure to include [@SyntaxFM](https://twitter.com/SyntaxFM) in your tweets
+Syntax: [X](https://twitter.com/syntaxfm) [Instagram](https://www.instagram.com/syntax_fm/) [Tiktok](https://www.tiktok.com/@syntaxfm) [LinkedIn](https://www.linkedin.com/company/96077407/admin/feed/posts/) [Threads](https://www.threads.net/@syntax_fm)
+
+Wes: [X](https://twitter.com/wesbos) [Instagram](https://www.instagram.com/wesbos/) [Tiktok](https://www.tiktok.com/@wesbos) [LinkedIn](https://www.linkedin.com/in/wesbos/) [Threads](https://www.threads.net/@wesbos)
+
+Scott:[X](https://twitter.com/stolinski) [Instagram](https://www.instagram.com/stolinski/) [Tiktok](https://www.tiktok.com/@stolinski) [LinkedIn](https://www.linkedin.com/in/stolinski/) [Threads](https://www.threads.net/@stolinski)
