@@ -8,6 +8,7 @@ guest:
   name: Nicholas Zakas
   github: nzakas
   twitter: slicknet
+  of: ESLint
   url: https://humanwhocodes.com/blog/
   # A single social Link:
   social: https://someotherplatform.com
@@ -21,11 +22,13 @@ guest:
   - name: Nicholas Zakas
     github: nzakas
     twitter: slicknet
+    of: ESlint
     url: https://humanwhocodes.com/blog/
     social: https://fosstodon.org/@nzakas
   - name: Guest Two
     github: twoooo
     twitter: heheehe
+    of: Google, Angular
     url: https://cool.com/blog/
     social:
       - https://fosstodon.org/@two
