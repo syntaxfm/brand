@@ -3,6 +3,7 @@ number:
 title:
 date:
 url:
+youtube_url:
 ---
 
 In this episode of Syntax, Wes and Scott talk
