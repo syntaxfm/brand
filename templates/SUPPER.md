@@ -3,6 +3,9 @@ number:
 title: Supper Club × Title
 date:
 url:
+youtube_url:
+---
+
 # A Single Guest looks like this:
 guest:
   name: Nicholas Zakas
